@@ -2,8 +2,6 @@
 // - With factory objects can be created without 'new' Keyword, it can be more pleasing. 
 // - It Decouples Object Creation and Implementaion.
 
-const { get } = require("http");
-
 carFactory = name => new Car(name);
 const car = createCar('car');
 
