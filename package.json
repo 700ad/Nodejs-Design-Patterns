@@ -1,0 +1,8 @@
+{
+  "name": "nodejs-design-patterns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/700ad/Nodejs-Design-Patterns.git",
+  "author": "Adeel Farzand <adeel.farzand.1@gmail.com>",
+  "license": "MIT"
+}
